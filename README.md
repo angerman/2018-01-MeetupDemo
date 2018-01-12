@@ -20,4 +20,4 @@ Studio should install the application on the Simulator or Device.
 
 ---
 
-Slides from the presentation: [speakerdeck.com/angerman/building-android-apps-with-haskell](https://speakerdeck.com/angerman/building-android-apps-with-haskell)
+Slides @ [speakerdeck.com/angerman/building-android-apps-with-haskell](https://speakerdeck.com/angerman/building-android-apps-with-haskell)
